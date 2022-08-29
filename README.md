@@ -3,6 +3,7 @@
 This repository contains an [implementation](https://github.com/nslyubaykin/relax_rainbow_dqn_example/blob/master/rainbow_dqn_tutorial.ipynb) of rainbow deep q-network (Rainbow DQN) with ReLAx.
 
 Rainbow DQN actor was trained on MsPacman-v0 Atari Gym environment for 3m env-steps. 
+Trained models exceed GitHub's 100mb size limin and may be found [here](https://disk.yandex.ru/d/UNmsM5p-0klVqw).
 
 __!Note:__ For demonstration purposes training was run only for 3m steps. In papers, DQN and its augmentations are trained for 200m steps, which may require several days of learning. That is why performance is lower than reported in papers.
 
